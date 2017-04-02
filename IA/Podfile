@@ -1,0 +1,11 @@
+
+
+project 'IA.xcodeproj'
+
+target 'IA' do
+pod 'Fabric'
+pod 'Digits'
+pod 'Firebase'
+
+end
+
